@@ -1,0 +1,178 @@
+.clear-fix {
+    clear: both;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+body {
+    background-color: #e7ecf3;
+    color: #222222;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.page .header {
+    background-color: #1a4a7e;
+    margin: 0 auto 30px;
+    padding-block: 30px;
+}
+
+.br-radius20 {
+    border-radius: 20px;
+}
+
+.header p {
+    color: #a9d1f5;
+}
+.in-header a {
+    color: white;
+    background-color: #2c5a8f;
+    border: 1px solid #5d8ab8;
+    border-radius: 20px;
+    padding: 10px 20px;
+     
+}
+button{
+    border: 0;
+    background-color: #0b63a8;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+
+
+.container {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.container h2 {
+    border-bottom: #dbe9f7 2px solid;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    color: #0f3d6e;
+
+}
+
+
+
+.float-left {
+    float: left;
+}
+
+.wd-25 {
+    width: 25%;
+}
+
+.wd-75 {
+    width: 75%;
+}
+
+.my-profile {
+    width: 175px;
+    height: 175px;
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 5px solid #e8f1fb;
+}
+
+.blue-text {
+    color: #0b63a8
+}
+
+.margin-bottom {
+    margin-bottom: 25px;
+}
+
+.color-white {
+    color: white;
+}
+
+.skill {
+    background-color: #f5f9ff;
+    border: 1px solid #e0ebf7;
+    border-radius: 15px;
+    padding: 20px;
+
+}
+
+.skill h3 {
+    color: #0b63a8;
+    margin-bottom: 10px;
+}
+
+.lol {
+    padding: 10px;
+}
+
+.jop img {
+    border: 1px solid #dbe9f7;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+
+}
+
+.wd-85 {
+    width: 85%;
+}
+
+.wd-15 {
+
+    width: 15%;
+}
+
+.jop {
+    border: 1px solid #e5ebf2;
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: #f8fafc;
+    border-left: 5px solid #0b63a8
+}
+
+#contact {
+    background-color: #1a4a7e;
+    color: white;
+}
+
+#contact h2 {
+    color: white;
+    border-bottom: 2px solid #5d8ab8;
+}
+
+ a {
+    color: white;
+    background-color: #2c5a8f;
+    border: 1px solid #5d8ab8;
+    border-radius: 8px;
+    padding: 10px 20px;
+    margin-right: 10px; 
+}
+.footer {
+    background-color: #041a38;
+    color: white;
+    text-align: center;
+    padding: 40px 20px 25px;
+    border-radius: 20px;
+}
+
+.in-footer {
+    color: #6db8f2;
+}
+p{
+    padding-bottom:10px ;
+}
